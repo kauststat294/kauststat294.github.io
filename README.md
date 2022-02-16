@@ -1,2 +1,3 @@
-# kauststat294.github.io
+# Contemporary Topic in Statistics (STAT 294)
+
 Students' Projects
